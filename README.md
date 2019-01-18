@@ -5,3 +5,4 @@
  ![image](https://github.com/newy/AngelSlots/blob/master/img/0x0ss-6.jpg)
  ![image](https://github.com/newy/AngelSlots/blob/master/img/0x0ss-2.jpg)
  ![image](https://github.com/newy/AngelSlots/blob/master/img/0x0ss-9.jpg)
+ ![image](https://github.com/newy/AngelSlots/blob/master/img/0x0ss-3.jpg)
