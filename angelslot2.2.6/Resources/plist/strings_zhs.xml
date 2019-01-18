@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE plist PUBLIC "-
+//Apple//DTD PLIST 1.0//EN""http://www.apple.com/DTDs/PropertyList-1.0.dtd">  
+<plist version="1.0">  
+<dict>  
+    <key>win</key>  
+    <string>贏得</string>
+    <key>bet</key>  
+    <string>押注</string>
+    <key>loading</key>  
+    <string>加載中</string>
+    <key>level</key>
+    <string>等級 </string>
+    <key>offline</key>
+    <string>離線</string>
+    <key>menu</key>
+    <string>菜 單</string>
+    <key>collectbonus</key>
+    <string>收集
+獎勵</string>
+    <key>bgmusic</key>
+    <string>背景音樂</string>
+    <key>sound</key>
+    <string>音 效</string>
+    <key>menu_back</key>
+    <string>回到地圖</string>
+    <key>menu_paytable</key>
+    <string>賠付表</string>
+    <key>menu_options</key>
+    <string>設 置</string>
+    <key>Win</key>
+    <string>贏得</string>
+    <key>menu_buycoins</key>
+    <string>購買更多金幣</string>
+    <key>guess</key>
+    <string>猜猜此牌的花色</string>
+    <key>DOUBLE</key>
+    <string>翻倍贏得 $</string>
+    <key>QUADRUPLE</key>
+    <string>四倍赢得 $</string>
+    <key>congratulations</key>
+    <string>恭 喜</string>
+    <key>bonus</key>
+    <string>你得到一次獎勵遊戲! X </string>
+    <key>start</key>
+    <string>開始</string>
+    <key>tapthesymbols</key>
+    <string>點擊下面的圖標</string>
+    <key>find</key>
+    <string>找到相同的數字贏得獎勵!</string>
+    <key>high</key>
+    <string>大</string>
+    <key>low</key>
+    <string>小</string>
+    <key>youget</key>
+    <string>你得到 </string>
+    <key>timesfreespins</key>
+    <string> 次免費旋轉!</string>
+    <key>youwin</key>
+    <string>免費轉動中你贏得了 </string>
+    <key>coinsinfreespins</key>
+    <string> 金幣!</string>
+    <key>yougetanother</key>
+    <string>你得到另外 </string>
+    <key>maxbet</key>
+    <string> 最大押金!</string>
+    <key>levelup</key>
+    <string>升 級 了 !</string>
+    <key>share</key>
+    <string>與你的朋友分享吧!</string>
+    <key>nothave</key>
+    <string>金幣不足!</string>
+    <key>newscore</key>
+    <string>新紀錄!</string>
+    <key>ok</key>
+    <string>確定</string>
+    <key>store</key>
+    <string>商城</string>
+    <key>connect</key>
+    <string>連接中</string>
+    <key>unabletoconnect</key>
+    <string>無法連接</string>
+    <key>99.99</key>
+    <string>￥599</string>
+    <key>49.99</key>
+    <string>￥299</string>
+    <key>19.99</key>
+    <string>￥119</string>
+    <key>9.99</key>
+    <string>￥59</string>
+    <key>4.99</key>
+    <string>￥29</string>
+    <key>1.99</key>
+    <string>￥12</string>
+    <key>free</key>
+    <string>免費</string>
+    <key>bestvalue</key>
+    <string>最佳選擇</string>
+    <key>menu_paihangbang</key>
+    <string>排行榜</string>
+    <key>table_1_0</key>
+    <string>獎勵圖標</string>
+    <key>table_0</key>
+    <string>3個或更多的獎勵圖標
+在一條獎勵線上將觸發
+獎勵遊戲。         </string>
+    <key>table_1_1</key>
+    <string>散射圖標</string>
+    <key>table_1</key>
+    <string>5個散射圖標 - 15次免費轉動
+4個散射圖標 - 10次免費轉動
+3個散射圖標 - 5  次免費轉動</string>
+    <key>table_1_2</key>
+    <string>通配圖標</string>
+    <key>table_2</key>
+    <string>通配圖標可以替代除了
+獎勵和散射圖標的其他
+圖標。            </string>
+    <key>table_3</key>
+    <string>
+5 - 300
+4 - 150
+3 -   30
+    </string>
+    <key>table_4</key>
+    <string>
+5 - 200
+4 - 100
+3 -   25
+    </string>
+    <key>table_5</key>
+    <string>
+5 - 150
+4 -   75
+3 -   20
+    </string>
+    <key>table_6</key>
+    <string>
+5 - 100
+4 -   50
+3 -   15
+    </string>
+    <key>table_7</key>
+    <string>
+5 - 80
+4 - 30
+3 - 10
+    </string>
+    <key>table_8</key>
+    <string>
+5 - 60
+4 - 20
+3 -   5
+    </string>
+    <key>table_9</key>
+    <string>
+5 - 50
+4 - 15
+3 -   5
+    </string>
+    <key>table_10</key>
+    <string>除了獎勵和散射圖標
+所有圖標在獎勵線上
+按照從左到右賠付。 </string>
+    <key>pays</key>
+    <string>赢得:</string>
+    <key>newhand</key>
+    <string>新手引導</string>
+    <key>touchthescreen</key>
+    <string>點擊屏幕下一步</string>
+    <key>newhand_1</key>
+    <string>老虎機遊戲非常簡單，點擊轉動按鈕，
+就能讓圖標轉動起來！</string>
+    <key>newhand_2</key>
+    <string>這裡可以增加或減少你的押注</string>
+    <key>newhand_3</key>
+    <string>當你贏得獎勵時，選擇進入翻倍遊戲，
+你的好運可能會使獎勵翻倍哦</string>
+    <key>newhand_4</key>
+    <string>減速道具可以使轉動速度降低，
+合理使用會增大獲獎概率</string>
+    <key>newhand_5</key>
+    <string>不同的圖標和組合將產生不同的驚喜。
+當賠付線上相同的圖標達到3個或3個
+以上即有獎勵</string>
+    <key>newhand_6</key>
+    <string>單條賠付線的押注＝總押注數／總賠付線數
+獎勵＝單條賠付線的押注x圖標獎勵</string>
+    <key>newhand_7</key>
+    <string>轉動的時候你也可以隨時點擊停止！
+現在就開始我們的好運之旅吧！
+轉! 轉! 轉！</string>
+</dict>
+</plist> 

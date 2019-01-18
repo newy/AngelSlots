@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE plist PUBLIC "-
+//Apple//DTD PLIST 1.0//EN""http://www.apple.com/DTDs/PropertyList-1.0.dtd">  
+<plist version="1.0">  
+<dict>  
+    <key>win</key>  
+    <string>WIN</string>
+    <key>bet</key>  
+    <string>bet</string>  
+    <key>loading</key>  
+    <string>loading</string>
+    <key>level</key>
+    <string>LEVEL </string>
+    <key>offline</key>
+    <string>OFFLINE</string>
+    <key>collectbonus</key>
+    <string>Collect
+Bonus</string>
+    <key>bgmusic</key>
+    <string>BG MUSIC</string>
+    <key>sound</key>
+    <string>SOUND FX</string>
+    <key>menu</key>
+    <string>MENU</string>
+    <key>menu_back</key>
+    <string>Back To Lobby</string>
+    <key>menu_paytable</key>
+    <string>Pay Table</string>
+    <key>menu_options</key>
+    <string>Options</string>
+    <key>menu_buycoins</key>
+    <string>Buy More Coins</string>
+    <key>Win</key>
+    <string>WIN</string>
+    <key>guess</key>
+    <string>Guess The Color of The Card！</string>
+    <key>DOUBLE</key>
+    <string>DOUBLE WIN $</string>
+    <key>QUADRUPLE</key>
+    <string>QUADRUPLE WIN $</string>
+    <key>congratulations</key>
+    <string>CONGRATULATIONS</string>
+    <key>bonus</key>
+    <string>You Get 1 Time Bonus Game! X </string>
+    <key>start</key>
+    <string>START</string>
+    <key>tapthesymbols</key>
+    <string>Tap the symbols</string>
+    <key>find</key>
+    <string>Find 2 of a kind and win !</string>
+    <key>high</key>
+    <string>high</string>
+    <key>low</key>
+    <string>low</string>
+    <key>youget</key>
+    <string>You Get </string>
+    <key>timesfreespins</key>
+    <string> Times Free Spins!</string>
+    <key>youwin</key>
+    <string>You Win </string>
+    <key>coinsinfreespins</key>
+    <string> Coins In Free Spins!</string>
+    <key>yougetanother</key>
+    <string>You Get Another </string>
+    <key>maxbet</key>
+    <string> Max Bet!</string>
+    <key>levelup</key>
+    <string>Level Up!</string>
+    <key>share</key>
+    <string>Share With Your Friends!</string>
+    <key>nothave</key>
+    <string>Not have enough coins!</string>
+    <key>newscore</key>
+    <string>New Record!</string>
+    <key>ok</key>
+    <string>OK</string>
+    <key>store</key>
+    <string>STORE</string>
+    <key>connect</key>
+    <string>connecting</string>
+    <key>unabletoconnect</key>
+    <string>Unable To Connect</string>
+    <key>99.99</key>
+    <string>$99.99</string>
+    <key>49.99</key>
+    <string>$49.99</string>
+    <key>19.99</key>
+    <string>$19.99</string>
+    <key>9.99</key>
+    <string>$9.99</string>
+    <key>4.99</key>
+    <string>$4.99</string>
+    <key>1.99</key>
+    <string>$1.99</string>
+    <key>free</key>
+    <string>FREE</string>
+    <key>bestvalue</key>
+    <string>BEST VALUE</string>
+    <key>menu_paihangbang</key>
+    <string>Ranking</string>
+    <key>table_1_0</key>
+    <string>BONUS</string>
+    <key>table_0</key>
+    <string>3 or more Bonus symbols
+in    an    active   pay-line
+activate the bonus game.</string>
+    <key>table_1_1</key>
+    <string>SCATTER</string>
+    <key>table_1</key>
+    <string>5 SCATTER - 15 free spins
+4 SCATTER - 10 free spins
+3 SCATTER - 5   free spins</string>
+    <key>table_1_2</key>
+    <string>WILD</string>
+    <key>table_2</key>
+    <string>Wild substitutes any other
+symbol    except   Scatter
+and Bonus.                       </string>
+    <key>table_3</key>
+    <string>
+5 - 300
+4 - 150
+3 -   30
+</string>
+    <key>table_4</key>
+    <string>
+5 - 200
+4 - 100
+3 -   25
+</string>
+    <key>table_5</key>
+    <string>
+5 - 150
+4 -   75
+3 -   20
+    </string>
+    <key>table_6</key>
+    <string>
+5 - 100
+4 -   50
+3 -   15
+    </string>
+    <key>table_7</key>
+    <string>
+5 - 80
+4 - 30
+3 - 10
+    </string>
+    <key>table_8</key>
+    <string>
+5 - 60
+4 - 20
+3 -   5
+    </string>
+    <key>table_9</key>
+    <string>
+5 - 50
+4 - 15
+3 -   5
+    </string>
+    <key>table_10</key>
+    <string>
+All symbols pay
+right on selected
+pay-lines except
+Scatter and Wild
+symbols.</string>
+    <key>pays</key>
+    <string>PAYS:</string>
+    <key>newhand</key>
+    <string>How To Play</string>
+    <key>touchthescreen</key>
+    <string>Tap the screen to the next</string>
+    <key>newhand_1</key>
+    <string>Slots game is very simple, click
+spin button, can let the icon to rotate!</string>
+    <key>newhand_2</key>
+    <string>Here you can increase or
+decrease your bets</string>
+    <key>newhand_3</key>
+    <string>When you win the award, choose to enter
+the double game, your lucky may make the
+award doubled </string>
+    <key>newhand_4</key>
+    <string>Deceleration props can make the rotation
+speed reduce, reasonable use will
+increase the winning probability</string>
+    <key>newhand_5</key>
+    <string>The icon and the combination of different will
+have different surprise. If you get more than
+3 consecutive the same symbols starting from
+the first in a line, you will get reward.</string>
+    <key>newhand_6</key>
+    <string>(Bet per line)=(Total bet)/(Number of lines),
+Reward = single pay line bet x icon reward</string>
+    <key>newhand_7</key>
+    <string>Click the button to stop rotation in anytime!
+Now begin our luck trip!
+Spin ! Spin ! Spin !</string>
+</dict>
+</plist>
